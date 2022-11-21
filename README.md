@@ -19,7 +19,13 @@ Results - This folder is used for store result and screenshots.
 
 
 Environment Setup:
-- Download Python
-- Download Pycharm as IDE
+Python
+Pycharm
+Install following library using CMD
+robot framework pip install robotframework
+requests pip install selenium
+robotframework-requests pip install robotframework-seleniumLibrary
+robotframework-jsonlibrarypip install -U robotframework-DataDriver
+
 - go to command and install requirement.txt, this will install all required libraries
 
