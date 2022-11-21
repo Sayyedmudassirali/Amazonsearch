@@ -18,14 +18,14 @@ TestCases/AmazonSearch.robot - This is Actual Test Case file where i used Suite 
 Results - This folder is used for store result and screenshots.
 
 
-Environment Setup:
-Python
-Pycharm
-Install following library using CMD
-robot framework pip install robotframework
-requests pip install selenium
-robotframework-requests pip install robotframework-seleniumLibrary
-robotframework-jsonlibrarypip install -U robotframework-DataDriver
+**Environment Setup:**
+- Python
+- Pycharm
+- Install following library using CMD
+- robot framework pip install robotframework
+- pip install selenium
+- pip install robotframework-seleniumLibrary
+- install -U robotframework-DataDriver
 
-- go to command and install requirement.txt, this will install all required libraries
-
+**- go to command and install requirement.txt, this will install all required libraries
+**
